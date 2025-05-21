@@ -62,15 +62,4 @@ In the quarantined depths of an already abandoned facilities, labs and etc, ligh
 - **Audio:** Deep tunnel reverb, distant echoes, and unsettling ambient whispers—sound is as critical as sight.
 
 ---
-
-## 🗺️ Roadmap Highlights
-
-- **Phase 1:** Greybox prototyping—light, vision, single shadow-monster AI  
-- **Phase 2:** Core combat loop—flashlight+NV, motion locator, basic weapons  
-- **Phase 3:** Full vertical slice—puzzle terminal, branching dialogue, co-op sync  
-- **Phase 4:** Content expansion—new rooms, shadow-monster behaviors, advanced VFX  
-- **Phase 5:** Polish & tension tuning—balance battery life, audio-visual chills, final art pass  
-
----
-
 > Venture into the darkness, synchronize your beams, and face the unknown—survive the VOID.  
