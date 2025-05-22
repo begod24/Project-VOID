@@ -3,7 +3,7 @@
 > Project VOID is shared for portfolio and demonstration purposes only.
 >  
 > ❌ Unauthorized use, duplication, or derivative work is prohibited.  
-> 📬 Interested in collaboration or licensing? Contact: **begod24@gmail.com**
+> 📬 Interested in collaboration or licensing? Contact: **bekbolat.aldiyarov@gmail.com**
 
 # VOID
 
